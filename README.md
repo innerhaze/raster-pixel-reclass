@@ -3,4 +3,4 @@ This script reclassifies pixels in raster datasets based on coordinates from a .
 
 To view the **R** code and detailed instructions, visit:
 
-[See the Code and Instructions](https://innerhaze.github.io/Custom-Pixel-Reclassification-in-Raster-Data-Using-Specified-Coordinates/)
+[See the Code and Instructions](https://innerhaze.github.io/raster-pixel-reclass/)
